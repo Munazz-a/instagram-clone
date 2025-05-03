@@ -37,12 +37,13 @@ instagram-clone/
 1. Clone the repository:
 git clone https://github.com/Munazz-a/instagram-clone.git
 
-2.Open the folder:
+2. Open the folder:
 cd instagram-clone
 
 3. Launch the index.html file in your browser (double-click or right-click > "Open with browser").
 
 🙋‍♀️ Author
+
   Munazza Sultana
  📍 3rd Year Engineering Student.
 
